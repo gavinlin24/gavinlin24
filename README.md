@@ -1,3 +1,3 @@
 ## Hi, I'm Gavin. 👋
 
-I am a fulltime student and aspiring software engineer at UCSD.
+I am a full time student and aspiring software engineer at UCSD.
