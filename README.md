@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Gavin!
 
 🎓 I'm a 4th-year **Mathematics and Computer Science** student at **UC San Diego**.  
-💻 I’m passionate about full-stack development and continuously expanding my skill set to design efficient, maintainable software.  
-🌱 Currently, I’m looking for **new grad software engineering roles** where I can grow, collaborate, and make an impact.
+💻 I’m passionate about full-stack development and continuously expanding my skill set to design user-focused software.  
+🌱 Currently, I’m looking for **new grad software engineering roles** where I can grow and make an impact.
 
 ---
 
