@@ -14,8 +14,7 @@ I'm a fourth-year Mathematics and Computer Science student at UC San Diego with 
 ---
 
 ### 💻 What I'm Working On
-**Fantasy Basketball Insights** – A web app that provides player analytics and recommendations for my friends' fantasy league.  
-**K–12 Travel Game** – An educational, story-based game designed to help K–12 students learn geography.
+**Fantasy Basketball Insights** – A web app that provides player analytics and recommendations for my friends' fantasy league.
 
 ---
 
