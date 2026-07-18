@@ -1,19 +1,27 @@
 <h1 align="center">Gavin Lin</h1>
-<p align="center"><em>Software Engineer &nbsp;·&nbsp; UC San Diego Math-CS '26</em></p>
+<p align="center">
+  <strong>Software Engineer</strong> · UC San Diego Math-CS '26
+</p>
 
 ---
 
-Recent UC San Diego Mathematics-Computer Science graduate currently shipping production code at ZipSea and Divinipress. I enjoy building scalable full-stack applications and am currently expanding my skill set by pursuing the Salesforce Platform Developer I certification. Open to full-time software engineering, platform development, and Salesforce platform opportunities.
+Recent UC San Diego Mathematics-Computer Science graduate currently shipping production code at **ZipSea** and **Divinipress**. I enjoy building scalable full-stack applications and am currently pursuing the Salesforce Platform Developer I certification.
 
-### Currently building
+**Open to:** Software Engineering · Platform Development · Salesforce Platform roles
 
-**ZipSea** — Shipping full-stack features across search, cruise pricing, and booking to help cruisers maximize onboard credit.
+## Currently Building
 
-**Divinipress** — Shipping a B2B commerce platform that helps churches design, approve, and order branded merchandise.
+**ZipSea**
 
-### Build with
+A full-stack cruise booking platform with real-time search, pricing, and booking.
 
-TypeScript  ·  Next.js  ·  React  ·  Node.js  ·  Express  ·  PostgreSQL  ·  Redis  ·  Drizzle ORM  ·  Medusa.js  ·  Tailwind CSS
+**Divinipress**
+
+A B2B e-commerce platform for designing, approving, and ordering custom branded merchandise.
+
+## Tech Stack
+
+`TypeScript` · `Next.js` · `React` · `Node.js` · `Express` · `PostgreSQL` · `Redis` · `Drizzle ORM` · `Medusa.js` · `Tailwind CSS`
 
 ---
 
@@ -26,3 +34,4 @@ TypeScript  ·  Next.js  ·  React  ·  Node.js  ·  Express  ·  Post
     <img height="28" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" />
   </a>
 </p>
+
